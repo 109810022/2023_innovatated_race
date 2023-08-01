@@ -41,6 +41,8 @@ pandas
 smtplib
 email
 ```
+## 初始開發版本（無界面開發，純使用cv2)
+[點這裡](https://github.com/109810022/AI_ntut)
 
 
 
