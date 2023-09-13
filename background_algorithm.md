@@ -1,4 +1,7 @@
 # 背後的演算法
+## 流程圖
+<img width="369" alt="截圖 2023-09-13 上午9 23 39" src="https://github.com/109810022/2023_innovated_race/assets/100888502/e14f292c-3845-47e4-9d80-68fcb7b78889">
+
 ## 行為辨識
 ### 資料結構->Queue
 隊列（queue），電腦科學中的一種抽象資料型別，是***先進先出***（FIFO, First-In-First-Out）的線性表。
